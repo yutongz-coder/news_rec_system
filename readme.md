@@ -2,10 +2,11 @@
 2. datawhale的推荐系统教程是很好的入门学习资料，其中不仅有教程，还有推荐算法实习面经：https://datawhalechina.github.io/fun-rec/#/ <br><br>
 3. 这是一份Markdown语法官方指南：https://markdown.com.cn/basic-syntax/headings.html<br><br>
 4. 2025年腾讯广告算法大赛：https://algo.qq.com/<br><br>
-5.**生成式推荐论文阅读笔记**：
+5. 生成式推荐论文阅读笔记：<br><br>
 [A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys)](https://www.notion.so/A-Review-of-Modern-Recommender-Systems-Using-Generative-Models-Gen-RecSys-21c4ea50d98a8001801fd1fd4f9a099a?source=copy_link)<br><br>
 [Recommender Systems with Generative Retrieval](https://www.notion.so/Recommender-Systems-with-Generative-Retrieval-23c4ea50d98a804c85dfd6a61630817e?source=copy_link)<br><br>
-[Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations]()
+[Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations](https://www.notion.so/Actions-Speak-Louder-than-Words-Trillion-Parameter-Sequential-Transducers-for-Generative-Recommenda-23c4ea50d98a804585bec85476aeee69?source=copy_link)<br><br>
+
 作为只有Python基础的小白，入门推荐系统第一个项目，本文档在datawhale的推荐系统实战项目基础上说明了不同文件实现的功能，以及应该如何运行；并对该项目的流程进行详细的梳理；同时练习了使用Markdown的能力。运行环境：rec，新创建的环境，需要安装tensorflow才能安装deepctr，其他的包提示未安装的时候再一一安装。<br><br>
 阅读项目代码的时候，小白看到一堆新定义的函数头都大了，可以拿草稿纸梳理一下有哪些函数，数据流是什么样的，动手写一遍可以对代码有更熟练的掌握，只看真的很难熟练掌握。<br><br>
 
