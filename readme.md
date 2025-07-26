@@ -1,14 +1,7 @@
 天池零基础入门推荐系统-新闻推荐： https://tianchi.aliyun.com/competition/entrance/531842<br><br>
 作为只有Python基础的小白，入门推荐系统第一个项目，本文档在datawhale的推荐系统实战项目基础上说明了不同文件实现的功能，以及应该如何运行；并对该项目的流程进行详细的梳理；同时练习了使用Markdown的能力。运行环境：rec，新创建的环境，需要安装tensorflow才能安装deepctr，其他的包提示未安装的时候再一一安装。<br><br>
 阅读项目代码的时候，小白看到一堆新定义的函数头都大了，可以拿草稿纸梳理一下有哪些函数，数据流是什么样的，动手写一遍可以对代码有更熟练的掌握，只看真的很难熟练掌握。<br><br>
-Markdown里面其实是可以写公式的：
-行内公式：$a^2 + b^2 = c^2$
 
-块级公式：
-
-$$
-\frac{\partial J(\theta)}{\partial \theta} = \sum_{i=1}^n (y_i - \hat{y}_i) \cdot x_i
-$$
 <br><br>
 打开切换面板（右上角设置键左边中间那个面板），点击下面的终端界面右上角的下拉箭头，不要选择PowerShell，选择Git Bash输入下面的内容就可以把修改的内容用git同步到仓库。
  `git add .` 
