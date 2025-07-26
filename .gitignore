@@ -1,0 +1,9 @@
+# 忽略数据和中间结果
+data_raw/
+tmp_results/
+models/
+output/
+*.csv
+*.pkl
+*.zipdata_raw/
+tmp_results/
